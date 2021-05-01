@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Demo: https://xqkue.csb.app/
 
-![alt text](https://i.ibb.co/jzq8bHH/Screenshot-116.png)
+![alt text](https://i.ibb.co/YB3X2cY/Screenshot-117.png)
 
 In the project directory, you can run:
 ### `npm install`
