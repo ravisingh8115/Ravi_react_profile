@@ -2,7 +2,7 @@ export const contact = {
   name: "Ravi Singh",
   job: "Web Developer",
   avatar: {
-    src: "https://i.ibb.co/RTjRfMS/img591.jpg",
+    src: "https://i.ibb.co/RTh2Z58/IMG-20210501-154140.jpg",
     alt: "Ravi Singh Img"
   },
   phone: "9044304431",
