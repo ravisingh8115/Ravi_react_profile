@@ -1,9 +1,16 @@
 export const experience = {
   work: [
     {
+      job: "Associate Software Engineer",
+      company: "Accenture",
+      time: "July 2021 - Present",
+      description:
+        "Using Python With Django for back-end and Javascript/jQuery, HTML, CSS, BootStrap, React.js for front-end."
+    },
+    {
       job: "Full Stack Certification",
       company: "Digikull",
-      time: "December 2020 - Present",
+      time: "December 2020 - June 2021",
       description:
         "Using Python With Django for back-end and Javascript/jQuery, HTML, CSS, BootStrap, React.js for front-end."
     },

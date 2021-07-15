@@ -11,7 +11,10 @@ export const skills = {
     "Django",
     "APi",
     "Git",
-    "AWS deployment"
+    "AWS deployment",
+    "PostgreSQL",
+    "Linux",
+    "Agile"
   ],
   "Soft Skills": ["Research", "Teamwork", "Communication", "Time Management"],
   Language: ["English","Hindi"]

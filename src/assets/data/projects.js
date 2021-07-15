@@ -1,5 +1,15 @@
 export const projects = [
   {
+    name: "Blog App",
+    thumbnail: {
+      src: "https://i.ibb.co/vLPkV0p/Screenshot-1.png",
+      alt: "Blogging Website"
+    },
+    description: [
+      "Blogging App with many functionality like Login Signup using React.js as Frontend and Django as Backend."
+    ]
+  },
+  {
     name: "Responsive Shopping Site",
     thumbnail: {
       src: "https://i.ibb.co/rGw1jpM/Screenshot-111.png",
